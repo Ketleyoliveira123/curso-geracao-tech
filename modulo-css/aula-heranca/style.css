@@ -1,0 +1,15 @@
+p {
+    color: rgb(233, 173, 233);
+}
+
+div p {
+    color: rgb(55, 129, 171);
+}
+
+.primeira-section > p {
+    color: brown;
+}
+
+.segunda-section > p {
+    color: blueviolet;
+}

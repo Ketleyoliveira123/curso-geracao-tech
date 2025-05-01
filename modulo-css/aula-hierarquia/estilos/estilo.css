@@ -1,0 +1,20 @@
+p {
+    color: palevioletred !important; 
+    
+    /*o "important" é mais priorizado do que os seletores id e class */
+}
+
+
+
+#paragrafo {
+    color: purple;
+}
+
+.paragrafo {
+    color: brown;
+}
+
+p {
+    color: violet;
+}
+

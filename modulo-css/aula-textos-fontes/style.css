@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+body {
+    font-family: "Sriracha", cursive;
+}
+
+p {
+    color: blueviolet;
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: 500;
+    text-transform: capitalize; /*deixaa primeira letra de cada palavra maiuscula */
+    line-height: 300%;
+    letter-spacing: 2px;
+    text-align: center;
+}
